@@ -1,8 +1,8 @@
 === Developer ===
-Contributors: automattic, batmoo, Viper007Bond, nbachiyski, tott, danielbachhuber, betzster, nprasath002, nickdaugherty
+Contributors: automattic, batmoo, Viper007Bond, nbachiyski, tott, danielbachhuber, betzster, nprasath002, nickdaugherty, scottjwalter
 Tags: developer, development, local
 Requires at least: 3.4
-Tested up to: 4.3
+Tested up to: 5.3
 Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
